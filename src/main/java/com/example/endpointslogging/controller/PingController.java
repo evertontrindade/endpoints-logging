@@ -1,8 +1,7 @@
-package com.example.actuatorendpointdefinition.controller;
+package com.example.endpointslogging.controller;
 
-import com.example.actuatorendpointdefinition.controller.contracts.PingRequest;
-import com.example.actuatorendpointdefinition.controller.contracts.PingResponse;
-import jakarta.websocket.PongMessage;
+import com.example.endpointslogging.controller.contracts.PingRequest;
+import com.example.endpointslogging.controller.contracts.PingResponse;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 

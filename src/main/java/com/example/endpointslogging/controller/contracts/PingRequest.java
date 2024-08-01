@@ -1,4 +1,4 @@
-package com.example.actuatorendpointdefinition.controller.contracts;
+package com.example.endpointslogging.controller.contracts;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

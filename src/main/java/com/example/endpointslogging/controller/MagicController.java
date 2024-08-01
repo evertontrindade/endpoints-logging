@@ -1,6 +1,6 @@
-package com.example.actuatorendpointdefinition.controller;
+package com.example.endpointslogging.controller;
 
-import com.example.actuatorendpointdefinition.controller.contracts.MagicResponse;
+import com.example.endpointslogging.controller.contracts.MagicResponse;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
