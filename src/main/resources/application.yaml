@@ -1,0 +1,11 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: endpoints-logging
+
+logging:
+  level:
+    root: warn
+    org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping: trace
